@@ -62,6 +62,23 @@
           </latex-image>
         </image>
       </section>
+      
+      <section xml:id="sec-college-algebra">
+        <title>College Algebra</title>
+        <p>
+          Sample introduction stuff!
+        </p>
+
+        <me>
+          ax^2+bx+c=0
+        </me>
+
+        <me>
+          x=\frac{-b\pm \sqrt{b^2-4ac}}{2a}
+        </me>
+        
+        
+      </section>
 
     </chapter>
 
